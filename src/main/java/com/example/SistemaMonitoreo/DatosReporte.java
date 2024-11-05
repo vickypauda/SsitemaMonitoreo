@@ -81,7 +81,7 @@ public class DatosReporte {
 
     @Override
     public String toString() {
-        return "DatosReporte{" +
+        return "DatosReporte: {" +
                 "temperatura=" + temperatura +
                 ", precipitacion=" + precipitacion +
                 ", viento=" + viento +
